@@ -1,1 +1,3 @@
-# version-control-practice
+
+def hello_world():
+    print("Hello world")
